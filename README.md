@@ -9,3 +9,4 @@ This is an example to show how various functions work.
 Sample website with plenty of files for demos
 
 ## Deployment 
+Further function check. More check.
