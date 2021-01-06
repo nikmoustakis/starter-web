@@ -12,6 +12,6 @@ Sample website with plenty of files for demos
 Further function check. More check.
 
 ## How To Contribute 
-
+Please fork this reposigory and then issue pull requests for review
 ### Copyright 
 2014 Git.Training
