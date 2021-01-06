@@ -5,9 +5,9 @@
 --> 
 <head>
 <<<<<<< HEAD
-	<title>A very respectful  website  </title>
+	<title>A very respectful website  </title>
 =======
-	<title>A great website  </title>
+	<title>An great website  </title>
 >>>>>>> realwork
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
@@ -22,7 +22,11 @@
 	<main class="container">
 	<!-- Content Goes Here -->
 		<p>
-			Just some content
+<<<<<<< HEAD
+			I am not sure what will go here, but I am sure it will be nice.
+=======
+			Some interesting stuff goes here
+>>>>>>> realwork
 		</p>
 	</main>
 	<footer class="container">
