@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work together. Adding a line for rebas example.
+This repository is for showing how Git and GitHub work together. Adding a line for rebas example. more changes from feature branch.
 
 ## Introduction 
 This is an example to show how various functions work. 
