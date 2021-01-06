@@ -10,3 +10,9 @@ Sample website with plenty of files for demos
 
 ## Deployment 
 Further function check. More check.
+
+## How To Contribute 
+
+### Copyright 
+
+2014 Git.Training
