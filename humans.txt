@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Nick Moustakis n_moustakis@hotmail.com
 
 # THANKS
 
