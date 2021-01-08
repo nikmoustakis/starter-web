@@ -11,6 +11,9 @@ Sample website with plenty of files for demos
 ## Deployment 
 Further function check. More check.
 
+## Updates
+Updates from 1
+
 ## How To Contribute 
 Please fork this reposigory and then issue pull requests for review
 ### Copyright 
